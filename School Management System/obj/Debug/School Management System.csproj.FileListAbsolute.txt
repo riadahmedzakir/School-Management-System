@@ -1,0 +1,138 @@
+F:\C# Project\School Management System\School Management System\bin\Debug\School Management System.exe.config
+F:\C# Project\School Management System\School Management System\bin\Debug\School Management System.exe
+F:\C# Project\School Management System\School Management System\bin\Debug\School Management System.pdb
+F:\C# Project\School Management System\School Management System\bin\Debug\MetroFramework.dll
+F:\C# Project\School Management System\School Management System\bin\Debug\MetroFramework.Fonts.dll
+F:\C# Project\School Management System\School Management System\obj\Debug\School Management System.csprojResolveAssemblyReference.cache
+F:\C# Project\School Management System\School Management System\obj\Debug\School_Management_System.Properties.Resources.resources
+F:\C# Project\School Management System\School Management System\obj\Debug\School Management System.csproj.GenerateResource.Cache
+F:\C# Project\School Management System\School Management System\obj\Debug\School Management System.exe
+F:\C# Project\School Management System\School Management System\obj\Debug\School Management System.pdb
+F:\C# Project\School Management System\School Management System\bin\Debug\MySql.Data.dll
+F:\C# Project\School Management System\School Management System\obj\Debug\School_Management_System.LoginPage.resources
+F:\C# Project\School Management System\School Management System\obj\Debug\School_Management_System.TeacherHigh.resources
+F:\C# Project\School Management System\School Management System\obj\Debug\School_Management_System.TeacherNorm.resources
+F:\C# Project\School Management System\School Management System\obj\Debug\School_Management_System.Student.resources
+F:\C# Project\School Management System\School Management System\obj\Debug\School_Management_System.Parent.resources
+F:\C# Project\School Management System\School Management System\obj\Debug\School_Management_System.TeacherHighAddSelection.resources
+F:\C# Project\School Management System\School Management System\obj\Debug\School_Management_System.TeacherHighDeleteSelection.resources
+F:\C# Project\School Management System\School Management System\obj\Debug\School_Management_System.TeacherHightViewSelection.resources
+F:\C# Project\School Management System\School Management System\obj\Debug\School_Management_System.TeacherHighChangePassword.resources
+F:\C# Project\School Management System\School Management System\obj\Debug\School_Management_System.TeacherHighTeacherView.resources
+F:\C# Project\School Management System\School Management System\obj\Debug\School_Management_System.TeacherHighStudentView.resources
+F:\C# Project\School Management System\School Management System\obj\Debug\School_Management_System.TeacherHighParentView.resources
+F:\C# Project\School Management System\School Management System\obj\Debug\School_Management_System.TeacherHighAddTeacher.resources
+F:\C# Project\School Management System\School Management System\obj\Debug\School_Management_System.TeacherHightAddStudent.resources
+F:\C# Project\School Management System\School Management System\obj\Debug\School_Management_System.TeacherHighAddParent.resources
+F:\C# Project\School Management System\School Management System\obj\Debug\School_Management_System.TeacherHighDeleteTeacher.resources
+F:\C# Project\School Management System\School Management System\obj\Debug\School_Management_System.TeacherHighDeleteStudent.resources
+F:\C# Project\School Management System\School Management System\obj\Debug\School_Management_System.TeacherHighDeleteParent.resources
+F:\C# Project\School Management System\School Management System\obj\Debug\School_Management_System.TeacherHighUpdateSelection.resources
+F:\C# Project\School Management System\School Management System\obj\Debug\School_Management_System.TeacherHighUpdateUC.resources
+F:\C# Project\School Management System\School Management System\obj\Debug\School_Management_System.TeacherNormAddNumber.resources
+F:\C# Project\School Management System\School Management System\obj\Debug\School_Management_System.TeacherNormChangePassword.resources
+F:\C# Project\School Management System\School Management System\obj\Debug\School_Management_System.TeacherNormUpdateGPA.resources
+F:\C# Project\School Management System\School Management System\obj\Debug\School_Management_System.TeacherNormSchedule.resources
+F:\C# Project\School Management System\School Management System\obj\Debug\School_Management_System.TeacherNormViewStudent.resources
+F:\C# Project\School Management System\School Management System\obj\Debug\School_Management_System.StudentSchedule.resources
+F:\C# Project\School Management System\School Management System\obj\Debug\School_Management_System.StudentsExamSchedule.resources
+F:\C# Project\School Management System\School Management System\obj\Debug\School_Management_System.StudentChangePassword.resources
+F:\C# Project\School Management System\School Management System\obj\Debug\School_Management_System.StudentApplicationUC.resources
+F:\C# Project\School Management System\School Management System\obj\Debug\School_Management_System.StudentViewNumber.resources
+F:\C# Project\School Management System\School Management System\obj\Debug\School_Management_System.ParentStudentMarks.resources
+F:\C# Project\School Management System\School Management System\obj\Debug\School_Management_System.ParentFinancialView.resources
+C:\Users\Silver\Desktop\Project Submission\4. Software\1. Raw Code\School Management System\School Management System\bin\Debug\School Management System.exe.config
+C:\Users\Silver\Desktop\Project Submission\4. Software\1. Raw Code\School Management System\School Management System\obj\Debug\School Management System.exe
+C:\Users\Silver\Desktop\Project Submission\4. Software\1. Raw Code\School Management System\School Management System\obj\Debug\School Management System.pdb
+C:\Users\Silver\Desktop\Project Submission\4. Software\1. Raw Code\School Management System\School Management System\obj\Debug\School Management System.csprojResolveAssemblyReference.cache
+C:\Users\Silver\Desktop\Project Submission\4. Software\1. Raw Code\School Management System\School Management System\obj\Debug\School_Management_System.LoginPage.resources
+C:\Users\Silver\Desktop\Project Submission\4. Software\1. Raw Code\School Management System\School Management System\obj\Debug\School_Management_System.Parent.resources
+C:\Users\Silver\Desktop\Project Submission\4. Software\1. Raw Code\School Management System\School Management System\obj\Debug\School_Management_System.ParentFinancialView.resources
+C:\Users\Silver\Desktop\Project Submission\4. Software\1. Raw Code\School Management System\School Management System\obj\Debug\School_Management_System.ParentStudentMarks.resources
+C:\Users\Silver\Desktop\Project Submission\4. Software\1. Raw Code\School Management System\School Management System\obj\Debug\School_Management_System.Properties.Resources.resources
+C:\Users\Silver\Desktop\Project Submission\4. Software\1. Raw Code\School Management System\School Management System\obj\Debug\School_Management_System.Student.resources
+C:\Users\Silver\Desktop\Project Submission\4. Software\1. Raw Code\School Management System\School Management System\obj\Debug\School_Management_System.StudentApplicationUC.resources
+C:\Users\Silver\Desktop\Project Submission\4. Software\1. Raw Code\School Management System\School Management System\obj\Debug\School_Management_System.StudentChangePassword.resources
+C:\Users\Silver\Desktop\Project Submission\4. Software\1. Raw Code\School Management System\School Management System\obj\Debug\School_Management_System.StudentSchedule.resources
+C:\Users\Silver\Desktop\Project Submission\4. Software\1. Raw Code\School Management System\School Management System\obj\Debug\School_Management_System.StudentsExamSchedule.resources
+C:\Users\Silver\Desktop\Project Submission\4. Software\1. Raw Code\School Management System\School Management System\obj\Debug\School_Management_System.StudentViewNumber.resources
+C:\Users\Silver\Desktop\Project Submission\4. Software\1. Raw Code\School Management System\School Management System\obj\Debug\School_Management_System.TeacherHigh.resources
+C:\Users\Silver\Desktop\Project Submission\4. Software\1. Raw Code\School Management System\School Management System\obj\Debug\School_Management_System.TeacherHighAddParent.resources
+C:\Users\Silver\Desktop\Project Submission\4. Software\1. Raw Code\School Management System\School Management System\obj\Debug\School_Management_System.TeacherHighAddSelection.resources
+C:\Users\Silver\Desktop\Project Submission\4. Software\1. Raw Code\School Management System\School Management System\obj\Debug\School_Management_System.TeacherHighAddTeacher.resources
+C:\Users\Silver\Desktop\Project Submission\4. Software\1. Raw Code\School Management System\School Management System\obj\Debug\School_Management_System.TeacherHighChangePassword.resources
+C:\Users\Silver\Desktop\Project Submission\4. Software\1. Raw Code\School Management System\School Management System\obj\Debug\School_Management_System.TeacherHighDeleteParent.resources
+C:\Users\Silver\Desktop\Project Submission\4. Software\1. Raw Code\School Management System\School Management System\obj\Debug\School_Management_System.TeacherHighDeleteSelection.resources
+C:\Users\Silver\Desktop\Project Submission\4. Software\1. Raw Code\School Management System\School Management System\obj\Debug\School_Management_System.TeacherHighDeleteStudent.resources
+C:\Users\Silver\Desktop\Project Submission\4. Software\1. Raw Code\School Management System\School Management System\obj\Debug\School_Management_System.TeacherHighParentView.resources
+C:\Users\Silver\Desktop\Project Submission\4. Software\1. Raw Code\School Management System\School Management System\obj\Debug\School_Management_System.TeacherHighStudentView.resources
+C:\Users\Silver\Desktop\Project Submission\4. Software\1. Raw Code\School Management System\School Management System\obj\Debug\School_Management_System.TeacherHightAddStudent.resources
+C:\Users\Silver\Desktop\Project Submission\4. Software\1. Raw Code\School Management System\School Management System\obj\Debug\School_Management_System.TeacherHighDeleteTeacher.resources
+C:\Users\Silver\Desktop\Project Submission\4. Software\1. Raw Code\School Management System\School Management System\obj\Debug\School_Management_System.TeacherHighTeacherView.resources
+C:\Users\Silver\Desktop\Project Submission\4. Software\1. Raw Code\School Management System\School Management System\obj\Debug\School_Management_System.TeacherHighUpdateSelection.resources
+C:\Users\Silver\Desktop\Project Submission\4. Software\1. Raw Code\School Management System\School Management System\obj\Debug\School_Management_System.TeacherHightViewSelection.resources
+C:\Users\Silver\Desktop\Project Submission\4. Software\1. Raw Code\School Management System\School Management System\obj\Debug\School_Management_System.TeacherHighUpdateUC.resources
+C:\Users\Silver\Desktop\Project Submission\4. Software\1. Raw Code\School Management System\School Management System\obj\Debug\School_Management_System.TeacherNorm.resources
+C:\Users\Silver\Desktop\Project Submission\4. Software\1. Raw Code\School Management System\School Management System\obj\Debug\School_Management_System.TeacherNormAddNumber.resources
+C:\Users\Silver\Desktop\Project Submission\4. Software\1. Raw Code\School Management System\School Management System\obj\Debug\School_Management_System.TeacherNormChangePassword.resources
+C:\Users\Silver\Desktop\Project Submission\4. Software\1. Raw Code\School Management System\School Management System\obj\Debug\School_Management_System.TeacherNormSchedule.resources
+C:\Users\Silver\Desktop\Project Submission\4. Software\1. Raw Code\School Management System\School Management System\obj\Debug\School_Management_System.TeacherNormUpdateGPA.resources
+C:\Users\Silver\Desktop\Project Submission\4. Software\1. Raw Code\School Management System\School Management System\obj\Debug\School_Management_System.TeacherNormViewStudent.resources
+C:\Users\Silver\Desktop\Project Submission\4. Software\1. Raw Code\School Management System\School Management System\obj\Debug\School Management System.csproj.GenerateResource.Cache
+C:\Users\Silver\Desktop\Project Submission\4. Software\1. Raw Code\School Management System\School Management System\bin\Debug\School Management System.exe.manifest
+C:\Users\Silver\Desktop\Project Submission\4. Software\1. Raw Code\School Management System\School Management System\bin\Debug\School Management System.application
+C:\Users\Silver\Desktop\Project Submission\4. Software\1. Raw Code\School Management System\School Management System\bin\Debug\School Management System.exe
+C:\Users\Silver\Desktop\Project Submission\4. Software\1. Raw Code\School Management System\School Management System\bin\Debug\School Management System.pdb
+C:\Users\Silver\Desktop\Project Submission\4. Software\1. Raw Code\School Management System\School Management System\bin\Debug\MetroFramework.dll
+C:\Users\Silver\Desktop\Project Submission\4. Software\1. Raw Code\School Management System\School Management System\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Silver\Desktop\Project Submission\4. Software\1. Raw Code\School Management System\School Management System\bin\Debug\MySql.Data.dll
+C:\Users\Silver\Desktop\Project Submission\4. Software\1. Raw Code\School Management System\School Management System\obj\Debug\School Management System.exe.manifest
+C:\Users\Silver\Desktop\Project Submission\4. Software\1. Raw Code\School Management System\School Management System\obj\Debug\School Management System.application
+C:\Users\Riad\Desktop\School Management System\School Management System\bin\Debug\School Management System.exe.config
+C:\Users\Riad\Desktop\School Management System\School Management System\obj\Debug\School Management System.exe
+C:\Users\Riad\Desktop\School Management System\School Management System\obj\Debug\School Management System.pdb
+C:\Users\Riad\Desktop\School Management System\School Management System\bin\Debug\School Management System.exe.manifest
+C:\Users\Riad\Desktop\School Management System\School Management System\bin\Debug\School Management System.application
+C:\Users\Riad\Desktop\School Management System\School Management System\bin\Debug\School Management System.exe
+C:\Users\Riad\Desktop\School Management System\School Management System\bin\Debug\School Management System.pdb
+C:\Users\Riad\Desktop\School Management System\School Management System\bin\Debug\MetroFramework.dll
+C:\Users\Riad\Desktop\School Management System\School Management System\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Riad\Desktop\School Management System\School Management System\obj\Debug\School Management System.csprojResolveAssemblyReference.cache
+C:\Users\Riad\Desktop\School Management System\School Management System\obj\Debug\School_Management_System.LoginPage.resources
+C:\Users\Riad\Desktop\School Management System\School Management System\obj\Debug\School_Management_System.Parent.resources
+C:\Users\Riad\Desktop\School Management System\School Management System\obj\Debug\School_Management_System.ParentFinancialView.resources
+C:\Users\Riad\Desktop\School Management System\School Management System\obj\Debug\School_Management_System.ParentStudentMarks.resources
+C:\Users\Riad\Desktop\School Management System\School Management System\obj\Debug\School_Management_System.Properties.Resources.resources
+C:\Users\Riad\Desktop\School Management System\School Management System\obj\Debug\School_Management_System.Student.resources
+C:\Users\Riad\Desktop\School Management System\School Management System\obj\Debug\School_Management_System.StudentApplicationUC.resources
+C:\Users\Riad\Desktop\School Management System\School Management System\obj\Debug\School_Management_System.StudentChangePassword.resources
+C:\Users\Riad\Desktop\School Management System\School Management System\obj\Debug\School_Management_System.StudentSchedule.resources
+C:\Users\Riad\Desktop\School Management System\School Management System\obj\Debug\School_Management_System.StudentsExamSchedule.resources
+C:\Users\Riad\Desktop\School Management System\School Management System\obj\Debug\School_Management_System.StudentViewNumber.resources
+C:\Users\Riad\Desktop\School Management System\School Management System\obj\Debug\School_Management_System.TeacherHigh.resources
+C:\Users\Riad\Desktop\School Management System\School Management System\obj\Debug\School_Management_System.TeacherHighAddParent.resources
+C:\Users\Riad\Desktop\School Management System\School Management System\obj\Debug\School_Management_System.TeacherHighAddSelection.resources
+C:\Users\Riad\Desktop\School Management System\School Management System\obj\Debug\School_Management_System.TeacherHighAddTeacher.resources
+C:\Users\Riad\Desktop\School Management System\School Management System\obj\Debug\School_Management_System.TeacherHighChangePassword.resources
+C:\Users\Riad\Desktop\School Management System\School Management System\obj\Debug\School_Management_System.TeacherHighDeleteParent.resources
+C:\Users\Riad\Desktop\School Management System\School Management System\obj\Debug\School_Management_System.TeacherHighDeleteSelection.resources
+C:\Users\Riad\Desktop\School Management System\School Management System\obj\Debug\School_Management_System.TeacherHighDeleteStudent.resources
+C:\Users\Riad\Desktop\School Management System\School Management System\obj\Debug\School_Management_System.TeacherHighParentView.resources
+C:\Users\Riad\Desktop\School Management System\School Management System\obj\Debug\School_Management_System.TeacherHighStudentView.resources
+C:\Users\Riad\Desktop\School Management System\School Management System\obj\Debug\School_Management_System.TeacherHightAddStudent.resources
+C:\Users\Riad\Desktop\School Management System\School Management System\obj\Debug\School_Management_System.TeacherHighDeleteTeacher.resources
+C:\Users\Riad\Desktop\School Management System\School Management System\obj\Debug\School_Management_System.TeacherHighTeacherView.resources
+C:\Users\Riad\Desktop\School Management System\School Management System\obj\Debug\School_Management_System.TeacherHighUpdateSelection.resources
+C:\Users\Riad\Desktop\School Management System\School Management System\obj\Debug\School_Management_System.TeacherHightViewSelection.resources
+C:\Users\Riad\Desktop\School Management System\School Management System\obj\Debug\School_Management_System.TeacherHighUpdateUC.resources
+C:\Users\Riad\Desktop\School Management System\School Management System\obj\Debug\School_Management_System.TeacherNorm.resources
+C:\Users\Riad\Desktop\School Management System\School Management System\obj\Debug\School_Management_System.TeacherNormAddNumber.resources
+C:\Users\Riad\Desktop\School Management System\School Management System\obj\Debug\School_Management_System.TeacherNormChangePassword.resources
+C:\Users\Riad\Desktop\School Management System\School Management System\obj\Debug\School_Management_System.TeacherNormSchedule.resources
+C:\Users\Riad\Desktop\School Management System\School Management System\obj\Debug\School_Management_System.TeacherNormUpdateGPA.resources
+C:\Users\Riad\Desktop\School Management System\School Management System\obj\Debug\School_Management_System.TeacherNormViewStudent.resources
+C:\Users\Riad\Desktop\School Management System\School Management System\obj\Debug\School Management System.csproj.GenerateResource.Cache
+C:\Users\Riad\Desktop\School Management System\School Management System\obj\Debug\School Management System.exe.manifest
+C:\Users\Riad\Desktop\School Management System\School Management System\obj\Debug\School Management System.application
+C:\Users\Riad\Desktop\School Management System\School Management System\obj\Debug\School_Management_System.TeacherNormSearchStudentByID.resources
+C:\Users\Riad\Desktop\School Management System\School Management System\obj\Debug\School_Management_System.FilterDemoPage.resources
